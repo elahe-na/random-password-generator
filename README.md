@@ -25,6 +25,7 @@ To install NLTK, use pip:
 
 ```bash
 pip install nltk
+
 ```
 
 After installing NLTK, you need to download the 'words' corpus. Run Python and type these commands:
